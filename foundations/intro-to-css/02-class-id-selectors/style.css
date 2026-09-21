@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+.odd-num{
+    background-color: rgb(213, 77, 148);
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+#sec {
+    color: rgb(78, 167, 205);
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(152, 236, 63); font-size: 24px;font-weight: bold;
+}
